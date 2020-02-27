@@ -4,13 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 0"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "grunt": "^1.0.4",
-    "grunt-htmlhint": "^0.9.13"
+    "grunt-contrib-csslint": "^2.0.0"
   }
 }
