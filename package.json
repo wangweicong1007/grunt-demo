@@ -11,6 +11,6 @@
   "license": "ISC",
   "devDependencies": {
     "grunt": "^1.0.4",
-    "grunt-contrib-less": "^2.0.0"
+    "grunt-htmlhint": "^0.9.13"
   }
 }
