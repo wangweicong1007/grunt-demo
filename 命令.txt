@@ -1,0 +1,6 @@
+npm i -D grunt 
+npm i -D grunt-contrib-cssmin
+添加Gruntfile.js
+grunt自动化压缩 生成rectangle.min.css
+
+修改html里对css的引入
