@@ -1,0 +1,7 @@
+
+npm i grunt --save-dev （安装grunt）
+npm i  grunt-contrib-htmlmin --save-dev
+添加Gruntfile.js
+grunt自动化压缩 生成dist文件夹-index.html
+
+然后把js和css放到dist文件夹里，html就会变正常
