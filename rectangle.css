@@ -1,0 +1,14 @@
+div{
+    width:370px;
+    margin:50px auto;
+    font-size:18px;
+}
+#calculate{
+    width:70px;
+    margin-left:58px;
+}
+input,label{
+    margin:5px 0;
+    padding-left:6px;
+    font-size:18px;
+}
