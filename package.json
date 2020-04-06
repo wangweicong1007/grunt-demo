@@ -1,0 +1,25 @@
+{
+    "name": "grunt-demo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "grunt"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/yanjiayingUk/grunt-demo.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/yanjiayingUk/grunt-demo/issues"
+    },
+    "homepage": "https://github.com/yanjiayingUk/grunt-demo#readme",
+    "devDependencies": {
+      "chai": "^4.2.0",
+      "grunt": ">=0.4.5",
+      "grunt-mocha": "^0.4.12"
+    }
+  }
